@@ -1,0 +1,12 @@
+.git-issue-failed,.git-user-not-found,.git-issue-created{
+    display: none;
+}
+.git-issues.mb-4{
+    margin-bottom: 0 !important;
+}
+.user-git-repo-items{
+    margin:10px;
+}
+.git-user-repo-list{
+    margin-top: 20px;
+}
